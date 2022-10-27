@@ -54,7 +54,24 @@ about_profile_image:
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 한림대학교 빅데이터학과에 재학중인 19학번 장윤성이라고 합니다.
   저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/)
+  ---
+  <mark> Most Used Language</mark>
 
+  - **PYTHON**
+
+  - **JAVA**
+
+  - **C**
+
+  <mark>Used At Least Once</mark>
+
+  - **HTML5**
+
+  - **CSS**
+
+  - **JAVASCRIPT**
+
+  - **JQUERY**
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -112,24 +129,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-        <mark> Most Used Language</mark>
-
-        - **PYTHON**
-
-        - **JAVA**
-
-        - **C**
-
-        |<mark>Used At Least Once</mark>
-
-        - **HTML5**
-
-        - **CSS**
-
-        - **JAVASCRIPT**
-
-        - **JQUERY**
-
+        asdf
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
