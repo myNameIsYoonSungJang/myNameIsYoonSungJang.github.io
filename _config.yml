@@ -67,20 +67,23 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: spring boot web server
+        link: Link to project (eg. https://github.com/myNameIsYoonSungJang/BackendProject)
+        link_text: BackEnd
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  springboot github
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: Link to project (eg. https://github.com/myNameIsYoonSungJang/BackendProject)
+         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          spring boot를 사용한 게시판 만들기
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          2022년도 여름방학 스스로 웹에 관하여 너무 무지하고 남들보다 못한다는 생각이 들어서 웹을 공부하기로 마음먹고 유튜브를 통해 spring boot에 관해 공부하였습니다.
+
+	  기본적인 웹 url 이동과 DB를 연동하여 데이터를 저장 및 수정하는 방법들에 대하여 공부하였습니다.
+
   - title: Experience
     layout: list
     content:
