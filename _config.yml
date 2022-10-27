@@ -53,13 +53,13 @@ additional_links:
 about_profile_image: <img src="C:\Users\yoonsungJang\Desktop\myImg>
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 한림대학교 빅데이터학과에 재학중인 19학번 장윤성이라고 합니다. 저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/)
-
-  Most used Language
-    - PYTHON
-    - JAVA
-    - C
-    - Images ![alt text](/C:\Users\yoonsungJang\Desktop\myImg "Trees")
-
+  
+  :closed_book: <mark> Most Used Language</mark>
+    - **PYTHON**
+  .
+    - **JAVA**
+  .
+    - **C**
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
