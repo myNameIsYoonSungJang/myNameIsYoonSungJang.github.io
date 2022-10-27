@@ -50,16 +50,26 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-#about_profile_image: none
+about_profile_image:
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요! 한림대학교 빅데이터학과에 재학중인 19학번 장윤성이라고 합니다.|저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/)
+  안녕하세요! 한림대학교 빅데이터학과에 재학중인 19학번 장윤성이라고 합니다.
+  저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/)
   
-  :closed_book: <mark> Most Used Language</mark>
+  <mark> Most Used Language</mark>
     - **PYTHON**
   .
     - **JAVA**
   .
     - **C**
+
+  <mark>Used At Least Once</mark>
+    - **HTML5**
+  .
+    - **CSS**
+  .
+    - **JAVASCRIPT**
+  .
+    - **JQUERY**
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,9 +92,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           2022년도 여름방학 스스로 웹에 관하여 너무 무지하고 남들보다 못한다는 생각이 들어서 웹을 공부하기로 마음먹고 유튜브를 통해 spring boot에 관해 공부하였습니다.
 
-          | 기본적인 웹 url 이동과 DB를 연동하여 데이터를 저장 및 수정하는 방법들에 대하여 공부하였습니다.
+          기본적인 웹 url 이동과 DB를 연동하여 데이터를 저장 및 수정하는 방법들에 대하여 공부하였습니다.
 
-  - title: Experience
+  - title: Education
     layout: list
     content:
       - layout: right
@@ -98,17 +108,22 @@ content:
           데이터에 대해 관심을 가지고 있었는데 마침 2022년도 여름방학때 머신러닝 멘토링이 있어서 참가를 하였습니다.
   
           회귀와 분석 문제에 대하여 학습하고, 다양한 파이썬 모델들을 사용하여 데이콘에 있는 머신러닝 문제를 풀어보았습니다. 
-#  - title: Education
- #   layout: list
-  #  content:
-   #   - layout: top-right
-    #    title: Institution name
-     #   sub_title: Qualifications (eg. BA Performing Arts)
-      #  caption: Date Range (eg. 2016 - 2019)
-       # quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-         # Description of qualification
+  - title: Experience
+    layout: list
+    content:
+      - layout: top-right
+        title: DEFY, Club of University
+        sub_title: 동아리 회장
+        caption: 2022 ~
+        quote: >
+          과 동아리 회장을 맡다!
+        description: | # this will include new lines to allow paragraphs
+          어렸을때부터 운동을 좋아하여 축구를 즐겨하던 제게 대학교에 들어와 눈에 들어온 동아리는 축구 동아리였습니다.
+  .
+          동아리에 들어가 감사하게도 선배들에게 예쁨을 받으며 19학번 기장을 맡았고 이번년도 회장직을 이어 받았습니다.
+  .
+          현재는 약 40명의 동아리원과 함께 동아리를 유지해 나가고 있으며, 내년에 회장직을 물려줄 예정입니다.
+
 #  - title: A Little More About Me
  #   layout: text
   #  content: | # this will include new lines to allow paragraphs
