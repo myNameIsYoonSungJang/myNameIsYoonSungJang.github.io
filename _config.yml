@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           2022년도 여름방학 스스로 웹에 관하여 너무 무지하고 남들보다 못한다는 생각이 들어서 웹을 공부하기로 마음먹고 유튜브를 통해 spring boot에 관해 공부하였습니다.
 
-	  | 기본적인 웹 url 이동과 DB를 연동하여 데이터를 저장 및 수정하는 방법들에 대하여 공부하였습니다.
+          | 기본적인 웹 url 이동과 DB를 연동하여 데이터를 저장 및 수정하는 방법들에 대하여 공부하였습니다.
 
   - title: Experience
     layout: list
@@ -96,8 +96,8 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           데이터에 대해 관심을 가지고 있었는데 마침 2022년도 여름방학때 머신러닝 멘토링이 있어서 참가를 하였습니다.
-	  
-	  회귀와 분석 문제에 대하여 학습하고, 다양한 파이썬 모델들을 사용하여 데이콘에 있는 머신러닝 문제를 풀어보았습니다. 
+  
+          회귀와 분석 문제에 대하여 학습하고, 다양한 파이썬 모델들을 사용하여 데이콘에 있는 머신러닝 문제를 풀어보았습니다. 
 #  - title: Education
  #   layout: list
   #  content:
