@@ -50,11 +50,13 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image:
+about_profile_image: #images/myImg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 한림대학교 빅데이터학과에 재학중인 19학번 장윤성이라고 합니다.
   저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/)
+
   ---
+
   <mark> Most Used Language</mark>
 
   - **PYTHON**
@@ -129,7 +131,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-        asdf
+        중학교때부터 겨울 시즌마다 스키장에 가서 스노우 보드를 탔습니다. 이번 시즌에도 친구들과 스키장을 갈 예정입니다.
+        [스키장 사진](C:/Users/yoonsungJang/Desktop/스키장사진)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
