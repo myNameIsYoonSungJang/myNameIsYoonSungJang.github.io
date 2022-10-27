@@ -53,7 +53,7 @@ additional_links:
 about_profile_image: images/myImg.png
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요! 한림대학교 빅데이터학과에 재학중인 19학번 장윤성이라고 합니다.  
-저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/).
+#저에 대해 더 알고싶다면? [워드프레스로 만든 블로그입니다!](http://34.64.32.187:8000/).
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
